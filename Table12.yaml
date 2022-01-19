@@ -1,0 +1,71 @@
+independent_variables: 
+- header: {name: '$p_{\mathrm{T}}(\bar t)$', units: '$\mathrm{GeV}$'}
+  values:
+  - {value: '0-45'}
+  - {value: '45-75'}
+  - {value: '75-110'}
+  - {value: '110-150'}
+  - {value: '150-500'}
+   
+dependent_variables:
+- header: {name: '$\dfrac{\mathrm{d}\sigma}{\mathrm{d}p_{\mathrm{T}}(\bar t)}$', units: '$\mathrm{fb~GeV^{-1}}$'}   
+  values:
+  - value: 190
+    errors:
+    - {symerror: 50}
+  - value: 230
+    errors:
+    - {symerror: 40}
+  - value: 97
+    errors:
+    - {symerror: 27}
+  - value: 13.0
+    errors:
+    - {symerror: 9.7}
+  - value: 1.4
+    errors:
+    - {symerror: 0.9}
+- header: {name: Total relative uncertainties, units: '%'}
+  values: 
+  - value: ''
+    errors:
+    - {label: total, symerror: 28}
+  - value: ''
+    errors:
+    - {label: total, symerror: 18}
+  - value: ''
+    errors:
+    - {label: total, symerror: 27}
+  - value: ''
+    errors:
+    - {label: total, symerror: 74}
+  - value: ''
+    errors:
+    - {label: total, symerror: 59}
+- header: {name: Relative uncertainties, units: '%'}
+  values: 
+  - value: ''        
+    errors:  
+    - {label: total , symerror: ' '}
+    - {label: stat, symerror: 12}
+    - {label: syst, symerror: 25}
+  - value: ''        
+    errors:
+    - {label: total , symerror: ' '}
+    - {label: stat, symerror: 8.2}
+    - {label: syst, symerror: 17}
+  - value: ''        
+    errors:
+    - {label: total , symerror: ' '}
+    - {label: stat, symerror: 13}
+    - {label: syst, symerror: 24}
+  - value: ''        
+    errors:
+    - {label: total , symerror: ' '}
+    - {label: stat, symerror: 26}
+    - {label: syst, symerror: 70}
+  - value: ''        
+    errors:
+    - {label: total , symerror: ' '}
+    - {label: stat, symerror: 26}
+    - {label: syst, symerror: 53}    

@@ -1,0 +1,328 @@
+dependent_variables:
+- header: {name: '[0,45]'}
+  qualifiers:
+  - {name: '$\dfrac{\mathrm{d}\sigma}{\mathrm{d}p_{\mathrm{T}}(t)}$', value: '$p_{\mathrm{T}}(t)$ bins [GeV]'}  
+  values:
+  - value: ''
+    errors:
+    - {symerror: 7.4, label: 'stat. [%]'}
+  - value: ''
+    errors:
+    - {symerror: 5.5, label: 'stat. [%]'}
+  - value: ''  
+  - errors:
+    - {symerror: 6.1, label: 'syst. [%]'}
+    value: ''
+  - errors:
+    - {symerror: 0.5, label: 'syst. [%]'}
+    value: ''
+  - errors:
+    - {symerror: 0.5, label: 'syst. [%]'}
+    value: ''
+  - errors:
+    - {symerror: 1.0, label: 'syst. [%]'}
+    value: ''
+  - errors:
+    - {symerror: 3.0, label: 'syst. [%]'}
+    value: ''
+  - errors:
+    - {symerror: 1.3, label: 'syst. [%]'}
+    value: ''
+  - errors:
+    - {symerror: 2.0, label: 'syst. [%]'}
+    value: ''
+  - errors:
+    - {symerror: 2.6, label: 'syst. [%]'}
+    value: ''
+  - {value: ''}
+  - errors:
+    - {symerror: 3.0, label: 'syst. [%]'}
+    value: ''
+  - errors:
+    - {symerror: 6.8, label: 'syst. [%]'}
+    value: ''
+  - errors:
+    - {symerror: 2.8, label: 'syst. [%]'}
+    value: ''
+  - {value: ''}
+  - errors:
+    - {symerror: 1.3, label: 'syst. [%]'}
+    value: ''
+  - errors:
+    - {symerror: 1.8, label: 'syst. [%]'}
+    value: ''
+  - {value: ''}
+  - value: ''
+    errors:
+    - {symerror: 13, label: 'syst. [%]'}
+  - value: ''
+    errors:
+    - {symerror: 15, label: 'total [%]'}
+- header: {name: '[45,75]'}
+  qualifiers:
+  - {name: '$\dfrac{\mathrm{d}\sigma}{\mathrm{d}p_{\mathrm{T}}(t)}$', value: '$p_{\mathrm{T}}(t)$ bins [GeV]'}  
+  values:  
+  - value: ''
+    errors:
+    - {symerror: 6.5, label: 'stat. [%]'}  
+  - value: ''
+    errors:
+    - {symerror: 5.3, label: 'stat. [%]'}
+  - {value: ''}
+  - errors:
+    - {symerror: 7.5, label: 'syst. [%]'}
+    value: ''
+  - value: ''
+    errors:
+    - asymerror: {minus: -1.3, plus: +2.6}
+      label: syst. [%]
+  - value: ''
+    errors:
+    - asymerror: {minus: -2.3, plus: +1.2}
+      label: syst. [%]
+  - errors:
+    - {symerror: 2.4, label: 'syst. [%]'}
+    value: ''
+  - errors:
+    - {symerror: 3.1, label: 'syst. [%]'}
+    value: ''
+  - errors:
+    - {symerror: 1.5, label: 'syst. [%]'}
+    value: ''
+  - errors:
+    - {symerror: 1.9, label: 'syst. [%]'}
+    value: ''
+  - errors:
+    - {symerror: 2.6, label: 'syst. [%]'}
+    value: ''
+  - {value: ''}
+  - errors:
+    - {symerror: 1.8, label: 'syst. [%]'}
+    value: ''
+  - errors:
+    - {symerror: 8.2, label: 'syst. [%]'}
+    value: ''
+  - errors:
+    - {symerror: 0.5, label: 'syst. [%]'}
+    value: ''
+  - {value: ''}
+  - errors:
+    - {symerror: 1.4, label: 'syst. [%]'}
+    value: ''
+  - errors:
+    - {symerror: 1.8, label: 'syst. [%]'}
+    value: ''
+  - {value: ''}  
+  - value: ''
+    errors:
+    - {symerror: 14, label: 'syst. [%]'}  
+  - value: ''
+    errors:
+    - {symerror: 16, label: 'total [%]'}
+- header: {name: '[75,100]'}
+  qualifiers:
+  - {name: '$\dfrac{\mathrm{d}\sigma}{\mathrm{d}p_{\mathrm{T}}(t)}$', value: '$p_{\mathrm{T}}(t)$ bins [GeV]'}  
+  values:
+  - value: ''
+    errors:
+    - {symerror: 7.7, label: 'stat. [%]'}  
+  - value: ''
+    errors:
+    - {symerror: 4.8, label: 'stat. [%]'}
+  - {value: ''}
+  - errors:
+    - {symerror: 5.2, label: 'syst. [%]'}
+    value: ''  
+  - value: ''
+    errors:
+    - asymerror: {minus: -1.9, plus: +3.4}
+      label: syst. [%]
+  - errors:
+    - {symerror: 0.5, label: 'syst. [%]'}
+    value: ''
+  - errors:
+    - {symerror: 2.3, label: 'syst. [%]'}
+    value: ''
+  - errors:
+    - {symerror: 3.3, label: 'syst. [%]'}
+    value: ''
+  - errors:
+    - {symerror: 0.5, label: 'syst. [%]'}
+    value: ''
+  - errors:
+    - {symerror: 0.5, label: 'syst. [%]'}
+    value: ''
+  - errors:
+    - {symerror: 2.6, label: 'syst. [%]'}
+    value: ''
+  - {value: ''}
+  - errors:
+    - {symerror: 2.3, label: 'syst. [%]'}
+    value: ''
+  - value: ''
+    errors:
+    - asymerror: {minus: +7.9, plus: -7.9}
+      label: syst. [%]
+  - errors:
+    - {symerror: 3.7, label: 'syst. [%]'}
+    value: ''
+  - {value: ''}
+  - errors:
+    - {symerror: 0.5, label: 'syst. [%]'}
+    value: ''
+  - errors:
+    - {symerror: 1.8, label: 'syst. [%]'}
+    value: ''
+  - {value: ''}
+  - value: ''
+    errors:
+    - {symerror: 13, label: 'syst. [%]'}  
+  - value: ''
+    errors:
+    - {symerror: 15, label: 'total [%]'}
+- header: {name: '[110,150]'}
+  qualifiers:
+  - {name: '$\dfrac{\mathrm{d}\sigma}{\mathrm{d}p_{\mathrm{T}}(t)}$', value: '$p_{\mathrm{T}}(t)$ bins [GeV]'}  
+  values:  
+  - value: ''
+    errors:
+    - {symerror: 12, label: 'stat. [%]'}
+  - value: ''
+    errors:
+    - {symerror: 6.0, label: 'stat. [%]'}
+  - {value: ''}
+  - errors:
+    - {symerror: 3.0, label: 'syst. [%]'}
+    value: ''
+  - errors:
+    - {symerror: 0.5, label: 'syst. [%]'}
+    value: ''
+  - errors:
+    - {symerror: 1.6, label: 'syst. [%]'}
+    value: ''
+  - errors:
+    - {symerror: 3.0, label: 'syst. [%]'}
+    value: ''
+  - errors:
+    - {symerror: 3.6, label: 'syst. [%]'}
+    value: ''
+  - errors:
+    - {symerror: 0.5, label: 'syst. [%]'}
+    value: ''
+  - errors:
+    - {symerror: 0.5, label: 'syst. [%]'}
+    value: ''
+  - errors:
+    - {symerror: 2.6, label: 'syst. [%]'}
+    value: ''
+  - {value: ''}
+  - errors:
+    - {symerror: 2.8, label: 'syst. [%]'}
+    value: ''
+  - value: ''
+    errors:
+    - asymerror: {minus: +12, plus: -12}
+      label: syst. [%]
+  - errors:
+    - {symerror: 0.5, label: 'syst. [%]'}
+    value: ''
+  - {value: ''}
+  - errors:
+    - {symerror: 0.5, label: 'syst. [%]'}
+    value: ''
+  - errors:
+    - {symerror: 1.8, label: 'syst. [%]'}
+    value: ''
+  - {value: ''}  
+  - value: ''
+    errors:
+    - {symerror: 16, label: 'syst. [%]'}  
+  - value: ''
+    errors:
+    - {symerror: 20, label: 'total [%]'}
+- header: {name: '[150,500]'}
+  qualifiers:
+  - {name: '$\dfrac{\mathrm{d}\sigma}{\mathrm{d}p_{\mathrm{T}}(t)}$', value: '$p_{\mathrm{T}}(t)$ bins [GeV]'}  
+  values:  
+  - value: ''
+    errors:
+    - {symerror: 16, label: 'stat. [%]'}  
+  - value: ''
+    errors:
+    - {symerror: 9.4, label: 'stat. [%]'}
+  - {value: ''}
+  - errors:
+    - {symerror: 5.2, label: 'syst. [%]'}
+    value: ''
+  - value: ''
+    errors:
+    - asymerror: {minus: -4.2, plus: +9.0}
+      label: syst. [%]
+  - errors:
+    - {symerror: 0.5, label: 'syst. [%]'}
+    value: ''
+  - errors:
+    - {symerror: 0.5, label: 'syst. [%]'}
+    value: ''
+  - errors:
+    - {symerror: 6.2, label: 'syst. [%]'}
+    value: ''
+  - errors:
+    - {symerror: 0.5, label: 'syst. [%]'}
+    value: ''
+  - errors:
+    - {symerror: 1.2, label: 'syst. [%]'}
+    value: ''
+  - errors:
+    - {symerror: 2.6, label: 'syst. [%]'}
+    value: ''
+  - {value: ''}
+  - errors:
+    - {symerror: 2.4, label: 'syst. [%]'}
+    value: ''
+  - value: ''
+    errors:
+    - asymerror: {minus: -9.7, plus: +9.2}
+      label: syst. [%]
+  - value: ''
+    errors:
+    - asymerror: {minus: -6.4, plus: +6.0}
+      label: syst. [%]
+  - {value: ''}
+  - errors:
+    - {symerror: 0.5, label: 'syst. [%]'}
+    value: ''
+  - errors:
+    - {symerror: 1.8, label: 'syst. [%]'}
+    value: ''
+  - {value: ''}  
+  - value: ''
+    errors:
+    - {symerror: 19, label: 'syst. [%]'}  
+  - value: ''
+    errors:
+    - {symerror: 25, label: 'total [%]'}
+independent_variables:
+- header: {name: Source}
+  values:
+  - {value: 'Data statistical'}
+  - {value: 'Monte Carlo statistical'}
+  - {value: ''}
+  - {value: 'Background normalization'}
+  - {value: 'JES $\eta$ intercalibration'}
+  - {value: '$b$-JES'}
+  - {value: 'Jet energy resolution'}
+  - {value: '$b$-tagging efficiency'}
+  - {value: '$c$-tagging efficiency'}
+  - {value: 'Mistag efficiency'}
+  - {value: 'Lepton uncertainties'}
+  - {value: ''}
+  - {value: 'PDF'}
+  - {value: '$tq$ generator + parton shower'}
+  - {value: '$tq$ scale variation'}
+  - {value: ''}
+  - {value: 'Unfolding'}
+  - {value: 'Luminosity'}
+  - {value: ''}
+  - {value: 'Total systematic'}
+  - {value: 'Total'}

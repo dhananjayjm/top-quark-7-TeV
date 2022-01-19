@@ -1,0 +1,17 @@
+dependent_variables:
+- header: {name: '$\dfrac{\mathrm{d}\sigma}{\mathrm{d}p_{\mathrm{T}}(t)}$'}
+  values:  
+  - {value: '7.55/5'}   
+- header: {name: '$\dfrac{\mathrm{d}\sigma}{\mathrm{d}p_{\mathrm{T}}(\bar t)}$'}
+  values:  
+  - {value: '4.68/5'}
+- header: {name: '$\dfrac{\mathrm{d}\sigma}{\mathrm{d}|y(t)|}$'}
+  values:  
+  - {value: '6.30/4'}
+- header: {name: '$\dfrac{\mathrm{d}\sigma}{\mathrm{d}|y(\bar t)|}$'}
+  values:  
+  - {value: '0.32/4'}
+independent_variables:
+- header: {name: ''}
+  values:
+  - {value: '$\chi^{2}$/NDF'}    

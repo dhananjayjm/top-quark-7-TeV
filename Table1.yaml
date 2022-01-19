@@ -1,0 +1,184 @@
+dependent_variables:
+- header: {name: '$\ell^+$'}
+  qualifiers:
+  - {name: '', value: '2-jet channels'}  
+  values:
+  - errors:
+    - {label: total, symerror: 220}
+    value: 2550
+  - errors:
+    - {label: total, symerror: 0.1}
+    value: 1.5
+  - errors:
+    - {label: total, symerror: 530}
+    value: 5250
+  - errors:
+    - {label: total, symerror: 2500}
+    value: 5700
+  - errors:
+    - {label: total, symerror: 4.6}
+    value: 9.2
+  - errors:
+    - {label: total, symerror: 350}
+    value: 1460
+  - errors:
+    - {label: total, symerror: 220}
+    value: 370
+  - errors:
+    - {label: total, symerror: 340}
+    value: 750
+  - errors:
+    - {label: total, symerror: 2600}
+    value: 16100
+  - errors:
+    - {label: total, symerror: ''}
+    value: 16198
+- header: {name: '$\ell^-$'}
+  qualifiers:
+  - {name: '', value: '2-jet channels'}  
+  values:
+  - errors:
+    - {label: total, symerror: 0.3}
+    value: 3.6
+  - errors:
+    - {label: total, symerror: 120}
+    value: 1390
+  - errors:
+    - {label: total, symerror: 510}
+    value: 5130
+  - errors:
+    - {label: total, symerror: 8.2}
+    value: 16.3
+  - errors:
+    - {label: total, symerror: 1700}
+    value: 3400
+  - errors:
+    - {label: total, symerror: 390}
+    value: 1620
+  - errors:
+    - {label: total, symerror: 180}
+    value: 310
+  - errors:
+    - {label: total, symerror: 370}
+    value: 740
+  - errors:
+    - {label: total, symerror: 2000}
+    value: 12600
+  - errors:
+    - {label: total, symerror: ''}
+    value: 12837
+- header: {name: '$\ell^+$'}
+  qualifiers:
+  - {name: '', value: '3-jet channels'}  
+  values:
+  - errors:
+    - {label: total, symerror: 74}
+    value: 845
+  - errors:
+    - {label: total, symerror: 0.05}
+    value: 0.52
+  - errors:
+    - {label: total, symerror: 820}
+    value: 8200
+  - errors:
+    - {label: total, symerror: 1200}
+    value: 2400
+  - errors:
+    - {label: total, symerror: 2.0}
+    value: 4.1
+  - errors:
+    - {label: total, symerror: 93}
+    value: 388
+  - errors:
+    - {label: total, symerror: 120}
+    value: 190
+  - errors:
+    - {label: total, symerror: 160}
+    value: 320
+  - errors:
+    - {label: total, symerror: 1500}
+    value: 12400
+  - errors:
+    - {label: total, symerror: ''}
+    value: 12460
+- header: {name: '$\ell^-$'}
+  qualifiers:
+  - {name: '', value: '3-jet channels'}  
+  values:
+  - errors:
+    - {label: total, symerror: 0.1}
+    value: 1.2
+  - errors:
+    - {label: total, symerror: 38}
+    value: 435
+  - errors:
+    - {label: total, symerror: 820}
+    value: 8180
+  - errors:
+    - {label: total, symerror: 5.7}
+    value: 11.5
+  - errors:
+    - {label: total, symerror: 740}
+    value: 1470
+  - errors:
+    - {label: total, symerror: 100}
+    value: 430
+  - errors:
+    - {label: total, symerror: 110}
+    value: 180
+  - errors:
+    - {label: total, symerror: 220}
+    value: 440
+  - errors:
+    - {label: total, symerror: 1100}
+    value: 11100
+  - errors:
+    - {label: total, symerror: ''}
+    value: 10819
+- header: {name: '2-tag'}
+  qualifiers:
+  - {name: '', value: '3-jet channels'}  
+  values:
+  - errors:
+    - {label: total, symerror: 26}
+    value: 309
+  - errors:
+    - {label: total, symerror: 14}
+    value: 162
+  - errors:
+    - {label: total, symerror: 580}
+    value: 5850
+  - errors:
+    - {label: total, symerror: 100}
+    value: 200
+  - errors:
+    - {label: total, symerror: 68}
+    value: 137
+  - errors:
+    - {label: total, symerror: 1.6}
+    value: 6.5
+  - errors:
+    - {label: total, symerror: 13}
+    value: 22
+  - errors:
+    - {label: total, symerror: 11}
+    value: 21 
+  - errors:
+    - {label: total, symerror: 610}
+    value: 6710
+  - errors:
+    - {label: total, symerror: ''}
+    value: 6403
+independent_variables:
+- header: {name: Process}
+  values:
+  - {value: '$tq$'}
+  - {value: '$t\bar{q}$'}
+  - {value: '$t\bar{t}$, $Wt$, $t\bar{b}$, $\bar{t}b$'}
+  - {value: '$W^+ + b\bar{b}, c\bar{c}, $ light jets'}
+  - {value: '$W^- + b\bar{b}, c\bar{c}, $ light jets'}
+  - {value: '$W+ c$'}
+  - {value: '$Z + $jets, diboson'}
+  - {value: Multijet}
+  - {value: Total expectation}
+  - {value: Data}

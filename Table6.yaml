@@ -1,0 +1,78 @@
+dependent_variables:
+- header: {name: '2-jet-$\ell^+$ HPR'}  
+  values:
+  - errors:
+    - {label: total, symerror: 150}
+    value: 1210
+  - errors:
+    - {label: total, symerror: 0.05}
+    value: 0.29
+  - errors:
+    - {label: total, symerror: 18}
+    value: 161
+  - errors:
+    - {label: total, symerror: 48}
+    value: 250
+  - errors:
+    - {label: total, symerror: 0.2}
+    value: 0.7
+  - errors:
+    - {label: total, symerror: 26}
+    value: 110
+  - errors:
+    - {label: total, symerror: 10}
+    value: 15
+  - errors:
+    - {label: total, symerror: 30}
+    value: 59
+  - errors:
+    - {label: total, symerror: 160}
+    value: 1810
+  - errors:
+    - {label: total, symerror: ''}
+    value: 1813
+- header: {name: '2-jet-$\ell^-$ HPR'}   
+  values:
+  - errors:
+    - {label: total, symerror: 0.2}
+    value: 1.3
+  - errors:
+    - {label: total, symerror: 87}
+    value: 549
+  - errors:
+    - {label: total, symerror: 19}
+    value: 175
+  - errors:
+    - {label: total, symerror: 0.07}
+    value: 0.35
+  - errors:
+    - {label: total, symerror: 40}
+    value: 166
+  - errors:
+    - {label: total, symerror: 30}
+    value: 125
+  - errors:
+    - {label: total, symerror: 6.8}
+    value: 11.4
+  - errors:
+    - {label: total, symerror: 31}
+    value: 62
+  - errors:
+    - {label: total, symerror: 110}
+    value: 1090 
+  - errors:
+    - {label: total, symerror: ''}
+    value: 1034
+independent_variables:
+- header: {name: Process}
+  values:
+  - {value: '$tq$'}
+  - {value: '$\bar tq$'}
+  - {value: '$t\bar{t}$, $Wt$, $t\bar{b}$, $\bar{t}b$'}
+  - {value: '$W^+ + b\bar{b}, c\bar{c}, $ light jets'}
+  - {value: '$W^- + b\bar{b}, c\bar{c}, $ light jets'}
+  - {value: '$W+c$'}
+  - {value: '$Z + $jets, diboson'}
+  - {value: Multijet}
+  - {value: Total expectation}
+  - {value: Data}

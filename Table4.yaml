@@ -1,0 +1,19 @@
+dependent_variables:
+- header: {name: '$p_{1}\left[\dfrac{\mathrm{pb}}{\mathrm{GeV}}\right]$'}
+  values:
+  - value: -0.46      
+  - value: -0.27      
+  - value: -0.19
+- header: {name: '$p_{2}\left[\dfrac{\mathrm{pb}}{\mathrm{GeV^{2}}}\right]$'}
+  values:
+  - value: -0.06      
+  - value: -0.04      
+  - value: -0.02      
+independent_variables:
+- header: {name: ''}
+  values:
+  - {value: '$\sigma(t q+\bar t q)$'}
+  - {value: '$\sigma(tq)$'}
+  - {value: '$\sigma(\bar tq)$'}
+  
+  

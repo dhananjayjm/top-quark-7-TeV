@@ -1,0 +1,83 @@
+independent_variables:
+- header: {name: '$p_{\mathrm{T}}(\bar t)$', units: 'GeV'}
+  values:
+  - {high: 45, low: 0}
+  - {high: 75, low: 45}
+  - {high: 110, low: 75}
+  - {high: 150, low: 110}
+  - {high: 500, low: 150}
+  - {high: 45, low: 0}
+  - {high: 75, low: 45}
+  - {high: 110, low: 75}
+  - {high: 150, low: 110}
+  - {high: 500, low: 150}
+  - {high: 45, low: 0}
+  - {high: 75, low: 45}
+  - {high: 110, low: 75}
+  - {high: 150, low: 110}
+  - {high: 500, low: 150}
+  - {high: 45, low: 0}
+  - {high: 75, low: 45}
+  - {high: 110, low: 75}
+  - {high: 150, low: 110}
+  - {high: 500, low: 150}
+  - {high: 45, low: 0}
+  - {high: 75, low: 45}
+  - {high: 110, low: 75}
+  - {high: 150, low: 110}
+  - {high: 500, low: 150}     
+- header: {name: '$p_{\mathrm{T}}(\bar t)$', units: 'GeV'}
+  values:
+  - {high: 45, low: 0}
+  - {high: 45, low: 0}
+  - {high: 45, low: 0}
+  - {high: 45, low: 0}
+  - {high: 45, low: 0}
+  - {high: 75, low: 45}
+  - {high: 75, low: 45}
+  - {high: 75, low: 45}
+  - {high: 75, low: 45}
+  - {high: 75, low: 45}
+  - {high: 110, low: 75}
+  - {high: 110, low: 75}
+  - {high: 110, low: 75}
+  - {high: 110, low: 75}
+  - {high: 110, low: 75}
+  - {high: 150, low: 110}
+  - {high: 150, low: 110}
+  - {high: 150, low: 110}
+  - {high: 150, low: 110}
+  - {high: 150, low: 110}
+  - {high: 500, low: 150}
+  - {high: 500, low: 150}
+  - {high: 500, low: 150}
+  - {high: 500, low: 150}
+  - {high: 500, low: 150}
+dependent_variables:
+- header: {name: Correlation}
+  values:
+  - {value: 1.00}
+  - {value: 0.34}
+  - {value: 0.26}
+  - {value: 0.13}
+  - {value: 0.13}  
+  - {value: 0.34}
+  - {value: 1.00}
+  - {value: 0.32}
+  - {value: 0.03}
+  - {value: 0.15}
+  - {value: 0.26}
+  - {value: 0.32}
+  - {value: 1.00}
+  - {value: 0.09}
+  - {value: 0.05}
+  - {value: 0.13}
+  - {value: 0.03}
+  - {value: 0.09}
+  - {value: 1.00}
+  - {value: -0.06}
+  - {value: 0.13}
+  - {value: 0.15}
+  - {value: 0.05}
+  - {value: -0.06}
+  - {value: 1.00}
